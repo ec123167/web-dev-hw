@@ -1,1 +1,13 @@
+How is the web different than the internet?
 
+
+Briefly describe how the internet works. ("Magic.")
+
+
+What is a directory, and what is its relationship to files?
+
+
+Why is using a VCS beneficial?
+
+
+State at least one thing you found interesting this topic, or that you didn't know before.
