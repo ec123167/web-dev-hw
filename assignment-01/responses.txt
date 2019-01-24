@@ -6,7 +6,7 @@ the internet.  Without the web the internet would be a dark, nonsensical place.
 
 2. Briefly describe how the internet works. ("Magic.")
 
-
+The internet is a wire buried in the ground and important computers called servers are directly connected to it.  Servers have certain information stored on them—webpages and such—which we connect to through our internet service provider as our home computers are clients (not directly connected to the internet).  When accessing information the internet sends the info in broken down packets which are reconfigured when they reach our computer.  To direct traffic on the internet unique ip addresses are given to every device connected to the internet and routers route the information packets from device to device.
 
 3. What is a directory, and what is its relationship to files?
 
