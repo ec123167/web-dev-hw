@@ -4,8 +4,12 @@
 2. Briefly describe how the internet works. ("Magic.")
 
 
+
 3. What is a directory, and what is its relationship to files?
 
+A directory is the whole package of a file system.  Folders inside the directory, also known as subdirectories, have a
+hierarchical relationship to the other directories in the file system.  Each directory below the root directory stores files
+that are appropriate to its category name.  Proper directory and file naming are essential to a functional website.
 
 4. Why is using a VCS beneficial?
 
@@ -14,8 +18,6 @@ is a type of database that acts as a recorder of history to track any changes th
 collaborative tool that allows you to see what all changes your partners have made and are making and for why they made
 changes.  Most essentially it allows reversion to previous states and acts as a backup in case a group member has their files
 deleted from their computer.
-
-
 
 5. State at least one thing you found interesting this topic, or that you didn't know before.
 
