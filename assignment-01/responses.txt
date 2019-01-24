@@ -1,5 +1,8 @@
 1. How is the web different than the internet?
 
+The web is different than the internet in that the internet connects participants while the web connects information.  The web
+functions as a global sea ecosystem that organizes and links information so that information is readily available to users of
+the internet.  Without the web the internet would be a dark, nonsensical place.
 
 2. Briefly describe how the internet works. ("Magic.")
 
