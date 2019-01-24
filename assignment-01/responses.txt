@@ -9,6 +9,13 @@
 
 4. Why is using a VCS beneficial?
 
+Using a Version Control System is beneficial as it allows you to have a snapshot of the totality of your project anytime.  It
+is a type of database that acts as a recorder of history to track any changes that are made to files.  A VCS is powerful
+collaborative tool that allows you to see what all changes your partners have made and are making and for why they made
+changes.  Most essentially it allows reversion to previous states and acts as a backup in case a group member has their files
+deleted from their computer.
+
+
 
 5. State at least one thing you found interesting this topic, or that you didn't know before.
 
