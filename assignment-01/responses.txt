@@ -12,5 +12,9 @@
 
 5. State at least one thing you found interesting this topic, or that you didn't know before.
 
-Andrew Blum’s Ted Talk is always interesting to watch as the physicality of the internet is never discussed.  It’s hard to wrap your mind around it even when you learn that the internet is in thousands of miles of wire beneath the oceans.  How do the engineers figure out how to permanently tether cable to the ocean floor?  It seems an impossibility to traverse an entire ocean with cable but it is not.  I can’t image how difficult (or not) it is to repair broken cable in the middle of the Atlantic or how the cable survives all the wear and tear of the ocean.
+Andrew Blum’s Ted Talk is always interesting to watch as the physicality of the internet is never discussed.  It’s hard to
+wrap your mind around it even when you learn that the internet is in thousands of miles of wire beneath the oceans.  How do
+the engineers figure out how to permanently tether cable to the ocean floor?  It seems an impossibility to traverse an entire
+ocean with cable but it is not.  I can’t image how difficult (or not) it is to repair broken cable in the middle of the
+Atlantic or how the cable survives all the wear and tear of the ocean.
 
