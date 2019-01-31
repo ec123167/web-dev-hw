@@ -1,0 +1,24 @@
+6. Briefly describe one way how data travels on the internet.
+
+One way data travels travels on the internet is through radio waves—that is
+wirelessly.  Bits of information are converted into radio waves of varying
+frequencies which then make their way to the destination and are reconfigured
+back into bits by the receiving machine.  This method does not have great
+communication range.
+
+7. What is the relationship between an IP address and the DNS?
+
+A DNS is repository of domain names and their IP addresses that a computer uses
+in order to connect to the desired domain.  A computer might have to go
+through many DNS’s before retrieving the known IP address of a website.
+
+8. What is a cookie?
+
+A cookie is memory data that a website uses to identify you when you visit the
+website.  It contains IP data for the server to determine and remember who is
+making the request.  Ultimately cookies speed up your browsing because the same
+information does not have to entered each time you visit the site.
+
+9. List the three basic parts of a URL.
+
+The protocol, the domain name, the path
