@@ -11,7 +11,7 @@ and broader.
 2. Learning how spacing works in html was valuable.  It's interesting how not
 all elements have a closing and an opening tag.  What was most interesting
 though was that images should include description text for the blind and in case
-the image does not actually load.  The lesson has seemed straightforward and
+the image does not actually load.  The module has seemed straightforward and
 hopefully my code works.
 
 ![Screenshot](./images/screenshot.png)
