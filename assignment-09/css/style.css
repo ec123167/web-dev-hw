@@ -1,0 +1,97 @@
+
+/* First Css comment ever! */
+body{
+        background-image: url("../images/giphy.gif");
+        background-repeat: repeat;
+        background-size: 50%;
+        background-position: center;
+        opacity: 0.675;
+        }
+
+img#rock{
+  background-color: purple;
+  width: auto;
+  height: 550px;
+  margin: auto;
+  padding: 13px;
+  border: 3px solid orange;
+  right: center;
+  position: fixed;
+}
+
+img#rider{
+  background-color: dimgray;
+  width: auto;
+  height: 380px;
+  margin: auto;
+  padding: 1px;
+  border: 5px  solid mistyrose;
+  left: 715px;
+  position: fixed;
+}
+
+img#pop{
+  background-color: red;
+  width: 450px;
+  height: auto;
+  margin: -20px;
+  padding: 5px;
+  border: 5px  solid gold;
+  top: 450px;
+  left: 900px;
+  position: fixed;
+}
+p#zero{
+  background-color: palevioletred;
+  width: auto;
+  height: auto;
+  margin: -20px;
+  padding: 5px;
+  border: 5px  solid thistle;
+  top: 150px;
+  left: 413px;
+  position: fixed;
+  color: darkorchid;
+  font-size: 700%;
+}
+p#one{
+  background-color: palevioletred;
+  width: 450px;
+  height: auto;
+  margin: -20px;
+  padding: 5px;
+  border: 6px  solid thistle;
+  top: 450px;
+  left: 415px;
+  position: fixed;
+  color: lavender;
+  font-size: 110%;
+}
+
+p#two{
+  background-color: palevioletred;
+  width: 450px;
+  height: auto;
+  margin: -20px;
+  padding: 5px;
+  border: 5px  solid thistle;
+  top: 580px;
+  left: 415px;
+  position: fixed;
+  color: lavender;
+  font-size: 105%;
+}
+
+p#three{
+  background-color: palevioletred;
+  width: 450px;
+  height: auto;
+  margin: -20px;
+  padding: 5px;
+  border: 5px  solid thistle;
+  top: 670px;
+  left: 415px;
+  position: fixed;
+  color: lavender;
+  font-size: 105%;
+}
