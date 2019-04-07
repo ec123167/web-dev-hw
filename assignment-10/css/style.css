@@ -1,0 +1,52 @@
+*{
+ background-color: grey;
+}
+
+sup, h2, h4, h5, #sprinkles{
+font-family: 'ZCOOL XiaoWei', Times, serif;
+background-color: firebrick;
+}
+
+p, a{
+  background-color: darkgoldenrod;
+
+  font-family: 'Raleway', Helvetica, sans-serif;
+  line-height: 22pt;
+
+  font-weight: normal;
+  text-align: left;
+  font-size: 12pt;
+}
+
+a:hover{
+  color: firebrick;
+}
+
+p::first-letter{
+  font-size: 200%;
+text-decoration: normal;
+background-color: darkgoldenrod;
+}
+
+span{
+    position: relative;
+    left: 1150px;
+}
+
+#meat{
+  background-color: darkgoldenrod;
+  width: auto;
+  height: 650px;
+  margin: auto;
+  padding: 13px;
+  border: 3px solid black;
+}
+
+#sprinkles{
+  background-color: firebrick;
+  width: auto;
+  height: 120px;
+  margin: auto;
+  padding: 13px;
+  border: 3px solid black;
+}
