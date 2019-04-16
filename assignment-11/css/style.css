@@ -1,0 +1,129 @@
+
+*{
+  border-color: black;
+}
+
+#base{
+  width: 405px;
+  height: 700px;
+  background-color: black;
+  position: static;
+  border: 0.5px inset;
+  z-index: 5
+  margin: 12px;
+
+}
+
+#green-sq{
+background-color: darkslategrey;
+width: 135px;
+height: 150px;
+top: 9px;
+left: 9px;
+position: absolute;
+z-index: 2;
+border-width: 0px 0.5px 0.5px 0px;
+border-style: inset;
+
+
+}
+
+#purple-sq{
+background-color: darkmagenta;
+width: 70px;
+height: 70px;
+bottom: 80px;
+left: 9px;
+position: absolute;
+z-index: 2;
+border-style: inset;
+border-width: 0px 0.5px 0.5px 0px;
+}
+
+#yellow-rec{
+background-color: goldenrod;
+border-style: inset;
+border-width: 0px 0.5px 0.5px 0.5px;
+width: 50.5px;
+height: 300px;
+position: absolute;
+z-index: 3.1;
+bottom: 130px;
+left: 362px;
+}
+
+
+/* lavender */
+.lavender{
+  background-color: lavender;
+
+}
+#lavender-rec{
+  width: 135px;
+  height: 340px;
+  left: 9px;
+  bottom: 288px;
+  position: absolute;
+  z-index: 3;
+  border-style: inset;
+  border-width: 0px 0.5px 0.5px 0px;
+}
+
+#lavender-sq{
+  width: 135px;
+  height: 140px;
+  bottom: 150px;
+  left: 9px;
+  position: absolute;
+  z-index: 2;
+  border-style: inset;
+  border-width: 0.5px 0.5px 0.5px 0px;
+
+
+}
+
+#lavender-skin{
+  width: 333.5px;
+  height: 49.5px;
+  bottom: 80px;
+  left: 80px;
+  z-index: 4;
+  position: absolute;
+  border-style: inset;
+  border-width: 0px 0.5px 0.5px 0px;
+
+}
+
+/* white */
+.white{
+  background-color: whitesmoke;
+}
+#white-box{
+width: 269px;
+height: 348px;
+border-width: 0px 0.5px 0.5px 0px;
+z-index: 2px;
+position: absolute;
+border-style: inset;
+top: 9px;
+left: 145px;
+
+}
+
+#white-slim{
+  width: 218px;
+  height: 300px;
+  border-width: 0px 0.5px 0.5px 0.5px;
+  z-index: 3.5;
+  position: absolute;
+  border-style: inset;
+  top: 358px;
+  left: 144px;
+
+}
+#text{
+  border: 1px dashed black;
+  padding: 1px;
+  margin: 2px;
+  display: inline-block;
+}
