@@ -5,7 +5,7 @@
 space between the border and box's inner-content.  The margin is the amount of
 space between a box and other boxes and content.
 
-2. ![A Georges Vantongerloo Oil Painting](https://i0.wp.com/www.guggenheim.org/wp-content/uploads/1930/01/51.1299_ph_web-1.jpg?w=870)
+2. ![A Georges Vantongerloo Oil Painting](images/artwork.jpg) 
 
 3. I searched through the pieces of artwork until I found one I'd like to do.
 Then I set up the structure of my piece in my index.html so that I'd be ready to
