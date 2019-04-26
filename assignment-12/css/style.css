@@ -1,0 +1,55 @@
+
+h1, h2, h5, .navv{
+  font-family: 'ZCOOL XiaoWei', Times, serif;
+  color: black;
+}
+p{
+  font-family: 'Raleway', Helvetica, sans-serif;
+}
+
+
+
+.navv {
+  display: inline;
+}
+
+#affiliates:hover .nadd{
+  display:block;
+}
+a:hover {
+  color: black;
+}
+#dropdown{
+  background-color: #eaeaea;
+}
+.nadd{
+  display: none;
+  right: -208px;
+  position: relative;
+}
+
+#navigation{
+  background-color: #eaeaea;
+  position: absolute;
+  width: 1013px;
+  height: 53px;
+
+}
+
+.body{
+  padding: 10px;
+  background-color: #eaeaea;
+  width: 995px;
+}
+#body{
+  height: 500px;
+}
+
+#a-body{
+  height: 200px;
+}
+
+#s-body{
+  height: 700px;
+  font-size: 16px;
+}
