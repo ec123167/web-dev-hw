@@ -13,7 +13,6 @@ for longer periods of time.
 3. I can't figure out how to get the dropdown from glitching the background
 without making the background position absolute/fixed.  It's also weird how
 depending on the size of the browser window and the number of elements the
-background will revert to color; also does this when the drop displays.  
-Additionally I can't get the nav to sticky.  I believe these problems are the
-result of poor positioning and to fix them I need to develop a better understanding
-of positioning relationships. 
+background will revert to color; also does this when the drop displays.  Additionally
+I can't get the nav to sticky.  I believe these problems are the result of poor
+positioning and to fix them I need to develop a better understanding of positioning relationships. 
